@@ -1,2 +1,5 @@
 # hello-world
-Una altre repositori més
+Un altre repositori més
+
+Alguna coseta més hem de posar aquí.
+Tampoc cal que sigui gaire...
